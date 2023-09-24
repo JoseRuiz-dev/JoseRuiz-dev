@@ -1,13 +1,13 @@
 <p align="center">
   <br/>
   <a href="https://joseruiz-dev.com/"  target="_blank"><img src="https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=cachet#7ED3&logoColor=violet" alt="Website" title="Website" /></a>
-  <a href="https://https://twitter.com/jose_r_dev" target="_blank">
+  <a href="https://twitter.com/jose_r_dev" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="mailto:joeruizl87@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="Email" /></a>
   <a href="https://github.com/JoseRuiz-dev" target="_blank"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="Github" title="Github" /></a>
 </a>
  <a href="https://www.linkedin.com/in/jose--ruiz/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="twitter" title="Twitter"/></a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" title="LinkedIn"/></a>
 </p>
 <div>
   <h1 align="center">Hi 👋, I'm Jose</h1>
@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@jose_r_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jose_r_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/jose--ruiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/jose--ruiz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jose--ruiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/jose--ruiz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
