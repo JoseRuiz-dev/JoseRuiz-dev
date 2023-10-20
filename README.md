@@ -15,7 +15,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **Java** .
+- 🌱 I’m currently learning **Python** .
 - 📫 How to reach me **joeruizl87@gmail.com**
 - ⚡ Fun fact - **I love food and exploring nature**. 🌳
 <h3 align="left">Connect with me:</h3>
