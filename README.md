@@ -11,7 +11,7 @@
 </p>
 <div>
   <h1 align="center">Hi 👋, I'm Jose</h1>
-<h4 align="center">I am a full stack Software Engineer. As a small business owners, my wife and I always struggled with slow running applications and websites. I decided the only way to truly address our struggles, was to learn to code and create application dedicated to our needs.</h4>
+<h4 align="center">I am a full stack Software Engineer. As a small business owners, my wife and I always struggled with slow running applications and websites. I decided the only way to truly address our struggles, was to learn to code and create application dedicated to our needs. </h4>
 </div>
 
 
